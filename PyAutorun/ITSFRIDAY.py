@@ -1,3 +1,3 @@
 from os import startfile
-PATH = "D:\PyAutorun\Yakuza 0 - Friday Night.mp4"
+PATH = "plchldr.png"
 startfile(PATH)
